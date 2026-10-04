@@ -1,4 +1,4 @@
 # demo
 this is my first github repository
 <br>
-Author - Fazale Ahad 
+Author - Fazale Ahad (UET Peshawar)
